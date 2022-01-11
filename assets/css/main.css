@@ -1977,10 +1977,9 @@ ul {
 }
 
 .page-title__title {
-    font-size: 28px;
+    font-size: 30px;
     margin-top: 0;
     margin-bottom: 0;
-    letter-spacing: -1;
 }
 
 @media (min-width: 320px) {
@@ -1991,7 +1990,7 @@ ul {
 
 @media (min-width: 1200px) {
     .page-title__title {
-        font-size: 50px;
+        font-size: 30px; letter-spacing: -1;
     }
 }
 
@@ -2306,7 +2305,6 @@ ul {
 }
 
 .work-detail__entry .work-img {
-    margin-top: 0px;
 }
 
 /* 19. work
